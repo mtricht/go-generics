@@ -1,4 +1,4 @@
-package functional
+package generics
 
 import (
 	"reflect"

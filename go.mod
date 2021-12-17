@@ -1,3 +1,3 @@
-module github.com/mtricht/functional
+module github.com/mtricht/go-generics
 
 go 1.18

@@ -1,4 +1,4 @@
-package functional
+package generics
 
 func Map[T any, S any](source []T, f func(T) S) []S {
 	var result []S
